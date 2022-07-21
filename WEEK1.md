@@ -32,6 +32,7 @@ A high level Language is one that's  understood , easy to read  and write by hum
 <br>
 <br>
 # **DAY 2, WEDNESDAY 20/7/2022**
+<br>
 
 **Your date of birth in the matrix?**
 
