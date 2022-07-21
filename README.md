@@ -6,7 +6,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#WEEK 1">Week 1</a>
+      <a href="#WEEK1">Week 1</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
