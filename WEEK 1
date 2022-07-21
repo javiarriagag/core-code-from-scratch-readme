@@ -5,7 +5,7 @@ DAY 1, TUESDAY 5/4/2022
 
 
 Interpreted And Compiled Programming Languages :
-- An interpreted language is the one that can be modified by several people in different locations with an specific translator, it might be slower and needs more steps than a compiled language. A compiled language can only be modified by one person at a time, if there's a modification or something that needs to be improved, it has to be written all over again, although it doesn't  need an aditional step to be actionable by the computer. Also a interpreted language is easy to read, because it uses terminology of natural human languge.
+- An interpreted language is the one that can be modified by several people in different locations with a specific translator, it might be slower and needs more steps than a compiled language. A compiled language can only be modified by one person at a time, if there's a modification or something that needs to be improved, it has to be written all over again, although it doesn't  need an additional itional step to be actionable by the computer. Also an interpreted language is easy to read, because it uses terminology of natural human language guge.
 
 
 Is Java compiled or interpreted, or both?
