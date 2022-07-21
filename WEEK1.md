@@ -12,6 +12,7 @@
 - Java can be both. Usually it is interpreted since it works with high level language and has to be interpreted by two steps JVM which compiles the information and Jit that executes directly, sometimes it will skip the JVM step to execute directly.
 
 **Pseudocode Currency Converter:**
+```
 - START<br>
 PRINT ("Welcome to  Thebitcalculator")
 Bitcoin<-- 45000<br>
@@ -22,7 +23,7 @@ CONVERT <-- Dollars/Bitcoin<br>
 PRINT ("Your amount from Dollars to Bitcoin is ": CONVERT)<br>
 PRINT ("Thank you for using Thebitcalculator")<br>
 END
-
+```
 
 **High and Low level languages:**
 
@@ -41,6 +42,7 @@ Decimal: 1990 Binary: 11111000110
 
 
 **MIPS exercise:**<br>
+```
   .data <br>
         Intro: .asciiz "\n==== What numbers would you like to add? =====\n"<br>
         result: .asciiz "\nThe result is: "<br>
@@ -71,7 +73,7 @@ Decimal: 1990 Binary: 11111000110
    move $a0, $t2<br>
    syscall<br>
            <br>   
-            
+ ```           
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
