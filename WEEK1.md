@@ -85,3 +85,5 @@ Decimal: 1990 Binary: 11111000110
 <br>
 
 
+My text in an orange box.
+{: .alert .alert-gitlab-orange}
