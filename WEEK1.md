@@ -1,5 +1,5 @@
 
-#  $$\textcolor{green}{\text{WEEK 1}}$$
+#  $$\textcolor{sky blue}{\text{WEEK 1}}$$
 
 
 ## **DAY 1, TUESDAY 19/7/2022**
@@ -83,5 +83,3 @@ Decimal: 1990 Binary: 11111000110
 
 ## **DAY 3, THURSDAY 21/7/2022**
 <br>
-
-<span style="color:red">some *red* text</span>.
