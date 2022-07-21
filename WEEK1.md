@@ -84,6 +84,4 @@ Decimal: 1990 Binary: 11111000110
 ## **DAY 3, THURSDAY 21/7/2022**
 <br>
 
-<div style="background-color:rgba((249, 105, 14);, 1); text-align:center; vertical-align: middle; padding:40px 0;">
-<a href= >DONATE</a>
-</div>
+<span style="color:red">some *red* text</span>.
