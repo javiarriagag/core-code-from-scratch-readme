@@ -1,4 +1,4 @@
-## **WEEK 1** 
+## # H1 **WEEK 1** 
 
 
 **DAY 1, TUESDAY 5/4/2022**
@@ -48,23 +48,23 @@ Decimal: 1990 Binary: 11111000110
    syscall<br>
    li $v0, 4<br>
    la $a0, number_one_msg<br>
-    syscall <br>
-    li $v0, 5<br>
-     syscall <br>
-     move $t0, $v0<br>
-      li $v0, 4<br>
-     la $a0, number_two_msg<br>
-     syscall   <br>  
-     li $v0, 5<br>
-     syscall  <br>     
-     move $t1, $v0<br>
-    add $t2, $t0, $t1<br>
-    i $v0, 4<br>
+   syscall <br>
+   li $v0, 5<br>
+   syscall <br>
+   move $t0, $v0<br>
+   li $v0, 4<br>
+   la $a0, number_two_msg<br>
+   syscall   <br>  
+   li $v0, 5<br>
+   syscall  <br>     
+   move $t1, $v0<br>
+   add $t2, $t0, $t1<br>
+   i $v0, 4<br>
    la $a0, result<br>
    syscall<br>
-    li $v0, 1<br>
-     move $a0, $t2<br>
-    syscall<br>
+   li $v0, 1<br>
+   move $a0, $t2<br>
+   syscall<br>
            <br>   
             
 <p align="right">(<a href="#top">back to top</a>)</p>
