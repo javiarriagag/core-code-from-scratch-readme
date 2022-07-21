@@ -85,4 +85,3 @@ Decimal: 1990 Binary: 11111000110
 <br>
 
 
-$$\textcolor{green}{\text{Hello World}}$$
