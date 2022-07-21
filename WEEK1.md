@@ -40,9 +40,9 @@ A high level Language is one that's  understood , easy to read  and write by hum
 <br>
 
 ### **Your date of birth in the matrix?**
-
+```javascript
 Decimal: 1990 Binary: 11111000110
-
+```
 
 ### **MIPS exercise:**<br>
 ```javascript
