@@ -18,11 +18,11 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#WEEK1">WEEK 1</a></li>
+    <li><a href="#">Roadmap</a></li>
+    <li><a href="#">Contributing</a></li>
+    <li><a href="#">License</a></li>
+    <li><a href="#">Contact</a></li>
+    <li><a href="#">Acknowledgments</a></li>
   </ol>
 </details>
