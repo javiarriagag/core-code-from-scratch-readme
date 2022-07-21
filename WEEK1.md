@@ -81,7 +81,7 @@ Decimal: 1990 Binary: 11111000110
 
 
 <br>
-<br>
+
 
 ## **DAY 3, THURSDAY 21/7/2022**
 <br>
