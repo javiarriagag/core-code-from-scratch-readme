@@ -16,15 +16,15 @@
 
 ### **Pseudocode Currency Converter:**
 ```
-- START<br>
+- START
 PRINT ("Welcome to  Thebitcalculator")
-Bitcoin<-- 45000<br>
-Dollars<--PRINT ("Indicate the amount of dollars you would like to exchange")<br>
-Dollars<-- GET<br>
-Dollars<-- READ<br>
-CONVERT <-- Dollars/Bitcoin<br>
-PRINT ("Your amount from Dollars to Bitcoin is ": CONVERT)<br>
-PRINT ("Thank you for using Thebitcalculator")<br>
+Bitcoin<-- 45000
+Dollars<--PRINT ("Indicate the amount of dollars you would like to exchange")
+Dollars<-- GET
+Dollars<-- READ
+CONVERT <-- Dollars/Bitcoin
+PRINT ("Your amount from Dollars to Bitcoin is ": CONVERT)
+PRINT ("Thank you for using Thebitcalculator")
 END
 ```
 
@@ -45,37 +45,37 @@ Decimal: 1990 Binary: 11111000110
 
 
 ### **MIPS exercise:**<br>
-```
+```javascript
   .data <br>
-        Intro: .asciiz "\n==== What numbers would you like to add? =====\n"<br>
-        result: .asciiz "\nThe result is: "<br>
-        number_one_msg: .asciiz "\nEnter the first number: "<br>
-        number_two_msg: .asciiz "\nEnter the second number: "<br>
+        Intro: .asciiz "\n==== What numbers would you like to add? =====\n"
+        result: .asciiz "\nThe result is: "
+        number_one_msg: .asciiz "\nEnter the first number: "
+        number_two_msg: .asciiz "\nEnter the second number: "
   .text
-        main:<br>
-   li $v0, 4<br>
-   la $a0, welcome<br><br>
-   syscall<br>
-   li $v0, 4<br>
-   la $a0, number_one_msg<br>
-   syscall <br>
-   li $v0, 5<br>
-   syscall <br>
-   move $t0, $v0<br>
-   li $v0, 4<br>
-   la $a0, number_two_msg<br>
-   syscall   <br>  
-   li $v0, 5<br>
-   syscall  <br>     
-   move $t1, $v0<br>
-   add $t2, $t0, $t1<br>
-   i $v0, 4<br>
-   la $a0, result<br>
-   syscall<br>
-   li $v0, 1<br>
-   move $a0, $t2<br>
-   syscall<br>
-           <br>   
+        main:
+   li $v0, 4
+   la $a0, welcome
+   syscall
+   li $v0, 4
+   la $a0, number_one_msg
+   syscall 
+   li $v0, 5
+   syscall 
+   move $t0, $v0
+   li $v0, 4
+   la $a0, number_two_msg
+   syscall     
+   li $v0, 5
+   syscall       
+   move $t1, $v0
+   add $t2, $t0, $t1
+   i $v0, 4
+   la $a0, result
+   syscall
+   li $v0, 1
+   move $a0, $t2
+   syscall
+             
  ```           
 <p align="right">(<a href="#top">back to top</a>)</p>
 
