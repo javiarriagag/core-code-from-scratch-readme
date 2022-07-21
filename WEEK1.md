@@ -17,7 +17,7 @@
 ### **Pseudocode Currency Converter:**
 ```javascript
 START
-PRINT ("Welcome to  Thebitcalculator")
+PRINT ("Welcome to  The bitcalculator")
 Bitcoin<-- 45000
 Dollars<--PRINT ("Indicate the amount of dollars you would like to exchange")
 Dollars<-- GET
