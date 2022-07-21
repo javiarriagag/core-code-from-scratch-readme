@@ -85,6 +85,5 @@ Decimal: 1990 Binary: 11111000110
 <br>
 
 
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0; margin-top:30px">
-<a href="/blog">VIEW THE BLOG</a>
+<div style="background-color:rgba(249, 105, 14, 1); text-align:center; vertical-align: middle; padding:40px 0; margin-top:30px">
 </div>
