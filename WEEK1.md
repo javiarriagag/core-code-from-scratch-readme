@@ -15,7 +15,7 @@
 - Java can be both. Usually it is interpreted since it works with high level language and has to be interpreted by two steps JVM which compiles the information and Jit that executes directly, sometimes it will skip the JVM step to execute directly.
 
 ### **Pseudocode Currency Converter:**
-```
+```javascript
 - START
 PRINT ("Welcome to  Thebitcalculator")
 Bitcoin<-- 45000
@@ -46,7 +46,7 @@ Decimal: 1990 Binary: 11111000110
 
 ### **MIPS exercise:**<br>
 ```javascript
-  .data <br>
+  .data 
         Intro: .asciiz "\n==== What numbers would you like to add? =====\n"
         result: .asciiz "\nThe result is: "
         number_one_msg: .asciiz "\nEnter the first number: "
