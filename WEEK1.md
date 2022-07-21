@@ -30,7 +30,7 @@ END
 
 ### **High and Low level languages:**
 
-A high level Language is one that's  understood , easy to read  and write by humans. Also, a high level language  might be the base language or older version of the new language for example c++ is a low level language  for Python. A Low level language is one that's  easily understood  by the computer, it is simple and can't imply much or give complex set of instructions. 
+- A high level Language is one that's  understood , easy to read  and write by humans. Also, a high level language  might be the base language or older version of the new language for example c++ is a low level language  for Python. A Low level language is one that's  easily understood  by the computer, it is simple and can't imply much or give complex set of instructions. 
 <br>
 <p align="right">(<a href="#top">back to top</a>)</p>
 <br>
