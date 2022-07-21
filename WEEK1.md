@@ -1,5 +1,5 @@
 
-#  $$\textcolor{blue}{\text{WEEK 1}}$$
+#  $$\textcolor{skyblue}{\text{WEEK 1}}$$
 
 
 ## **DAY 1, TUESDAY 19/7/2022**
