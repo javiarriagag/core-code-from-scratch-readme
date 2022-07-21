@@ -31,7 +31,8 @@ A high level Language is one that's  understood , easy to read  and write by hum
 <p align="right">(<a href="#top">back to top</a>)</p>
 <br>
 <br>
-# **DAY 2, WEDNESDAY 20/7/2022**
+
+## **DAY 2, WEDNESDAY 20/7/2022**
 <br>
 
 **Your date of birth in the matrix?**
@@ -72,4 +73,11 @@ Decimal: 1990 Binary: 11111000110
            <br>   
             
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<br>
+<br>
+
+## **DAY 3, THURSDAY 21/7/2022**
+<br>
 
