@@ -86,8 +86,7 @@ Decimal: 1990 Binary: 11111000110
 ## **DAY 3, THURSDAY 21/7/2022**
 <br>
 <br>
-### **Print special Numbers**
-<br>
+### **Print special Numbers**<br>
 
 ```javascript
 for (let i = 0; i <=100; i++) {
