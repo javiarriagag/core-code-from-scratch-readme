@@ -159,7 +159,8 @@ if ((cond = true)) {
 } else {
   console.log('The cond variable is false');
 }
-The code is lacking "===". the use of triple equals guarantees that the computer will be doing the comparison with exactitude, while using just one "=" signifies that the computer will be matching the class, in this case String.
+The code is lacking "===". the use of triple equals guarantees that the computer will be doing 
+the comparison with exactitude, while using just one "=" signifies that the computer will be matching the class, in this case String.
 ```
 #### Solution:
 ```javascript
