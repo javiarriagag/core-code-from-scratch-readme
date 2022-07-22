@@ -89,10 +89,9 @@ Decimal: 1990 Binary: 11111000110
 ### **Print special numbers:**
 ```javascript
 for (let i = 0; i <=100; i++) {
- while (i%2) {
-  i++;
+ if (i%2===0) {
+  console.log(i);
 }
-console.log(i);
 }
 ```
 #### Solution:
