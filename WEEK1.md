@@ -191,8 +191,8 @@ if (n % 10 == 0) {
   console.log('This number is multiple of 10');
 }
 ```
-The code is lacking "===". The use of triple equals guarantees that the computer will be doing 
-the comparison with exactitude, while using just one "=" implies  that the computer will be matching only the class, in this case String.
+This code is not making the necessary comparisons to determine if a number is almost special, and the operation that determines 
+if a number is multiple of ten is left outside of the main frame which renders it useless. 
 <br>
 
 #### Solution:
