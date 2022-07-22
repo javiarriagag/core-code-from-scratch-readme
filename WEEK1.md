@@ -150,4 +150,24 @@ console.log(i);
 100
 ```
 
+### **Bad code 1**
+```javascript
+var cond = false;
 
+if ((cond = true)) {
+  console.log('The cond variable is true');
+} else {
+  console.log('The cond variable is false');
+}
+The code is missing the "====" that assures that the code is going to be exactly the same as the instance. 
+```
+#### Solution:
+```javascript
+var cond = false;
+
+if ((cond === true)) {
+  console.log('The cond variable is true');
+} else {
+  console.log('The cond variable is false');
+}
+```
