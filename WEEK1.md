@@ -174,3 +174,41 @@ if ((cond === true)) {
   console.log('The cond variable is false');
 }
 ```
+
+### **Bad code 2**
+```javascript
+var n = 100;
+
+if (n == 100) {
+  console.log('This is a special number!');
+}
+if (n < 1000) {
+  console.log('');
+} else {
+  console.log('Just a regular number');
+}
+if (n % 10 == 0) {
+  console.log('This number is multiple of 10');
+}
+```
+The code is lacking "===". The use of triple equals guarantees that the computer will be doing 
+the comparison with exactitude, while using just one "=" implies  that the computer will be matching only the class, in this case String.
+<br>
+
+#### Solution:
+```javascript
+var n = 100;
+
+
+if (n === 100) {
+   console.log('This is a special number!');
+ }
+else if (n<1000 && n%10===0 && n!=100)
+  {
+     console.log('This is almost special' );
+
+} else {
+  console.log('Just a regular number');
+  
+}
+```
