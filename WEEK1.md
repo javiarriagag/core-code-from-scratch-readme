@@ -87,6 +87,7 @@ Decimal: 1990 Binary: 11111000110
 <br>
 
 ### **Print special numbers:**
+#### Solution:
 ```javascript
 for (let i = 0; i <=100; i++) {
  if (i%2===0) {
@@ -94,7 +95,7 @@ for (let i = 0; i <=100; i++) {
 }
 }
 ```
-#### Solution:
+#### Result:
 ```javascript
 0
 2
