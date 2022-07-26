@@ -10,6 +10,15 @@
 
 ### **Multiply**<br>
 
+#### Faulty code:
+```javascript
+function multiply(a, b){
+ a * b
+}
+```
+
+
+
 
 #### Solution:
 
