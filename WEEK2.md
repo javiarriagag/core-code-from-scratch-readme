@@ -63,6 +63,8 @@ function uniTotal (string) {
 "Mary Had A Little Lamb", 1873;
 ```
 
+
+
 ### **Char From ASCII Value**<br>
 
 #### Solution:
@@ -89,6 +91,7 @@ function getChar(c){
 (getChar(65),'A')
 ```
 
+
 ### **Binary Addition**<br>
 
 #### Solution:
@@ -107,6 +110,8 @@ let i = (a +b).toString(2);
 (addBinary (45,55), '1100100')
 (addBinary (28,7), '100011')
 ```
+
+
 ### **Student's Final Grade**<br>
 
 #### Solution:
@@ -134,3 +139,4 @@ else {return 0;}
 (finalGrade (55, 0), 0)
 (finalGrade (20, 2), 0)
 ```
+<p align="right">(<a href="#top">back to top</a>)</p>
