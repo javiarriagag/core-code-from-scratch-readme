@@ -88,3 +88,22 @@ function getChar(c){
 (getChar(64),'@')
 (getChar(65),'A')
 ```
+
+### **Binary Addition**<br>
+
+#### Solution:
+```javascript
+function addBinary(a,b) {
+let i = (a +b).toString(2);
+  return i;
+}
+
+```
+
+#### Result:
+
+```javascript
+(addBinary (1,2), '11')
+(addBinary (45,55), '1100100')
+(addBinary (28,7), '100011')
+```
