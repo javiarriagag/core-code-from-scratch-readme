@@ -149,5 +149,24 @@ else {return 0;}
 ## **DAY 5, WEDNESDAY 27/7/2022**
 
 
-### **Multiply**<br>
+### **Holiday VIII - Duty Free**<br>
 
+#### Solution:
+```javascript
+function dutyFree(normPrice, discount, hol){
+
+  let holiday = (hol/(normPrice*discount))*100;
+  let result = Math.floor(holiday);
+  
+  return result;
+}
+```
+
+#### Result:
+
+```javascript
+ (dutyFree(12, 50, 1000), 166);
+ (dutyFree(17, 10, 500), 294);
+ (dutyFree(24, 35, 3000), 357); 
+ 
+```
