@@ -11,7 +11,7 @@
 ### **Multiply**<br>
 
 
-
+#### Solution:
 
 ```javascript
 function multiply(a, b){
