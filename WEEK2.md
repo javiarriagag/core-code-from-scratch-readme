@@ -3,11 +3,11 @@
 <p align="right">(<a href="https://github.com/javiarriagag/core-code-from-scratch-readme/blob/main/WEEK1.md">Go to Next week</a>)</p
 
  
-
+<div id="top">
  
 #  $$\textcolor{skyblue}{\text{WEEK 2}}$$
 
-
+</div>
 
 ## **DAY 4, TUESDAY 25/7/2022**
 
