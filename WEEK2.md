@@ -62,3 +62,29 @@ function uniTotal (string) {
 "aaa", 291;
 "Mary Had A Little Lamb", 1873;
 ```
+
+### **Char From ASCII Value**<br>
+
+#### Solution:
+```javascript
+function getChar(c){
+  let a = String.fromCharCode(c);
+   return a;
+}
+```
+
+#### Result:
+
+```javascript
+(getChar(55),'7')
+(getChar(56),'8')
+(getChar(57),'9')
+(getChar(58),':')
+(getChar(59),';')
+(getChar(60),'<')
+(getChar(61),'=')
+(getChar(62),'>')
+(getChar(63),'?')
+(getChar(64),'@')
+(getChar(65),'A')
+```
