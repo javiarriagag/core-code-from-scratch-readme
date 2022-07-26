@@ -145,7 +145,7 @@ else {return 0;}
 ```
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## **DAY 4, WEDNESDAY 27/7/2022**
+## **DAY 5, WEDNESDAY 27/7/2022**
 
 
 ### **Multiply**<br>
