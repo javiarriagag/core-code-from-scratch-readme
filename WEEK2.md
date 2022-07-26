@@ -126,11 +126,11 @@ else {return 0;}
 #### Result:
 
 ```javascript
-100, 12 --> 100
-99, 0 --> 100
-10, 15 --> 100
-85, 5 --> 90
-55, 3 --> 75
-55, 0 --> 0
-20, 2 --> 0
+(finalGrade (100, 12 ), 100)
+(finalGrade (99, 0), 100)
+(finalGrade (10, 15), 100)
+(finalGrade (85, 5), 90)
+(finalGrade (55, 3), 75)
+(finalGrade (55, 0), 0)
+(finalGrade (20, 2), 0)
 ```
