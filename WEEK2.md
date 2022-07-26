@@ -3,7 +3,7 @@
 <p align="left">(<a href="https://github.com/javiarriagag/core-code-from-scratch-readme/blob/main/WEEK1.md">back to previous week</a>)</p>
 
 
-<p align="left">(<a href="">Next week/a>)</p>
+<p align="right">(<a href="">Next week/a>)</p>
 
 #  $$\textcolor{skyblue}{\text{WEEK 2}}$$
 
