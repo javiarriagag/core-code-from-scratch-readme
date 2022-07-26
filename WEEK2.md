@@ -9,7 +9,7 @@
 
 </div>
 
-## **DAY 4, TUESDAY 25/7/2022**
+## **DAY 4, TUESDAY 26/7/2022**
 
 
 ### **Multiply**<br>
@@ -144,3 +144,9 @@ else {return 0;}
 (finalGrade (20, 2), 0)
 ```
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+## **DAY 4, WEDNESDAY 27/7/2022**
+
+
+### **Multiply**<br>
+
