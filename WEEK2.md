@@ -183,14 +183,14 @@ function twiceAsOld(dadYearsOld, sonYearsOld) {
 #### Result:
 
 ```javascript
- ("Testing for dad's age: 36 and son's age: 7", (twiceAsOld(36,7) , 22);
+("Testing for dad's age: 36 and son's age: 7", (twiceAsOld(36,7) , 22);
  
-  ("Testing for dad's age: 55 and son's age: 30", (twiceAsOld(55,30) , 5);
+("Testing for dad's age: 55 and son's age: 30", (twiceAsOld(55,30) , 5);
 
- ("Testing for dad's age: 42 and son's age: 21", (twiceAsOld(42,21) , 0);
+("Testing for dad's age: 42 and son's age: 21", (twiceAsOld(42,21) , 0);
 
-  ("Testing for dad's age: 22 and son's age: 1", (twiceAsOld(22,1) , 20);
+("Testing for dad's age: 22 and son's age: 1", (twiceAsOld(22,1) , 20);
  
- ("Testing for dad's age: 29 and son's age: 0",  (twiceAsOld(29,0) , 29);
+("Testing for dad's age: 29 and son's age: 0",  (twiceAsOld(29,0) , 29);
  
  ```
