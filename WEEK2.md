@@ -8,4 +8,14 @@
 ## **DAY 4, TUESDAY 25/7/2022**
 
 
-### **Interpreted And Compiled Programming Languages :**<br>
+### **Multiply**<br>
+
+
+
+
+```javascript
+function multiply(a, b){
+ return a * b;
+}
+console.log(multiply);
+``` 
