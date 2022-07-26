@@ -107,3 +107,30 @@ let i = (a +b).toString(2);
 (addBinary (45,55), '1100100')
 (addBinary (28,7), '100011')
 ```
+### **Student's Final Grade**<br>
+
+#### Solution:
+```javascript
+function finalGrade (exam, projects) {
+
+if (exam >90 || projects >10)
+   { return 100;} 
+if (exam >75 && projects >=5)
+    {return 90;}
+if (exam >50 && projects >=2)
+   { return 75;} 
+else {return 0;}
+}
+```
+
+#### Result:
+
+```javascript
+100, 12 --> 100
+99, 0 --> 100
+10, 15 --> 100
+85, 5 --> 90
+55, 3 --> 75
+55, 0 --> 0
+20, 2 --> 0
+```
