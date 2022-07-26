@@ -1,5 +1,5 @@
 <p align="center">(<a href="https://github.com/javiarriagag/core-code-from-scratch-readme#readme">back to index</a>)</p>
-<p align="left">(<a href="https://github.com/javiarriagag/core-code-from-scratch-readme/blob/main/WEEK1.md">back to previous week</a> align="right">(<a href="https://github.com/javiarriagag/core-code-from-scratch-readme/blob/main/WEEK1.md">Next week</a>)</p>
+<p align="left">(<a href="https://github.com/javiarriagag/core-code-from-scratch-readme/blob/main/WEEK1.md">back to previous week</a></p> <p align="right">(<a href="https://github.com/javiarriagag/core-code-from-scratch-readme/blob/main/WEEK1.md">Next week</a>)</p>
  
 <br>
  
