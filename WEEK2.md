@@ -194,3 +194,40 @@ function twiceAsOld(dadYearsOld, sonYearsOld) {
 ("Testing for dad's age: 29 and son's age: 0",  (twiceAsOld(29,0) , 29);
  
  ```
+ 
+  ### **Valid Spacing**<br>
+
+#### Solution:
+```javascript
+
+```
+
+#### Result:
+
+```javascript
+ ```
+ 
+   ### **Fake Binary**<br>
+
+#### Solution:
+```javascript
+function fakeBin(x) {
+  let bin = x.split ('');
+  for (i=0; i< bin.length; i++ ){
+    if (bin [i]<5 ){
+      bin [i]=0;
+    }
+    else {bin[i] =1;}
+  }
+  
+  return bin.join('');
+ }
+```
+
+#### Result:
+
+```javascript
+(fakeBin('45385593107843568'), '01011110001100111');
+(fakeBin('509321967506747'), '101000111101101'); 
+(fakeBin('366058562030849490134388085'), '011011110000101010000011011');
+ ```
