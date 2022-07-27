@@ -199,7 +199,25 @@ function twiceAsOld(dadYearsOld, sonYearsOld) {
 
 #### Solution:
 ```javascript
+// que no hayan espacios de inicio y final-false
+// que no hayan espacios dobles o triples, en medio de las letras-false
+// que si lea las mayusculas 
+// que lea los strings vacios como true
 
+function validSpacing(s) {
+  let vowels = s.toLowerCase();
+   let string = vowels.split('');
+  for (i=0; i<string.length; i++){
+    if ( string[0] ===' '||string[string.length-1] ===' '
+        ||string[i] ==='   '|| string[i+1] === i){
+     return false;
+    }
+    else {return true;}
+  
+}
+}
+
+console.log (validSpacing("Hello  world"));
 ```
 
 #### Result:
