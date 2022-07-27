@@ -168,7 +168,7 @@ the comparison with exactitude, while using just one "=" implies  that the compu
 ```javascript
 var cond = false;
 
-if ((cond === true)) {
+if (cond === true) {
   console.log('The cond variable is true');
 } else {
   console.log('The cond variable is false');
