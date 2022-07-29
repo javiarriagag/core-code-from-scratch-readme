@@ -284,12 +284,19 @@ function fakeBin(x) {
 
 #### Solution:
 ```javascript
-
+function shortcut (string) {
+let regex = /[a,e,i,o,u]/g;
+return (string.replace(regex, ''));
+}
 ```
 
 #### Result:
 
 ```javascript
+('hello', 'hll');
+('how are you today?', 'hw r y tdy?');
+('complain', 'cmpln');
+('never', 'nvr');
  
  ```
  
