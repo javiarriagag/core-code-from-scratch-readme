@@ -267,7 +267,7 @@ function fakeBin(x) {
 ## **DAY 6, THURSDAY 28/7/2022**
 
 
-### ** Remove All Exclamation Marks From The End Of Sentence **<br>
+### **Remove All Exclamation Marks From The End Of Sentence**<br>
 
 #### Solution:
 ```javascript
@@ -280,7 +280,7 @@ function fakeBin(x) {
  
  ```
  
- ### ** Vowel Remover **<br>
+ ### **Vowel Remover**<br>
 
 #### Solution:
 ```javascript
@@ -293,7 +293,7 @@ function fakeBin(x) {
  
  ```
  
- ### ** Rock Paper Scissors! **<br>
+ ### **Rock Paper Scissors!**<br>
 
 #### Solution:
 ```javascript
@@ -306,7 +306,7 @@ function fakeBin(x) {
  
  ```
  
- ### ** Persistent Bugger  **<br>
+ ### **Persistent Bugger**<br>
 
 #### Solution:
 ```javascript
