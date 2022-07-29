@@ -215,14 +215,23 @@ function validSpacing(s) {
    return true;
 }
 
-console.log (validSpacing("Hello   world"));
   
-
 ```
 
 #### Result:
 
 ```javascript
+                               
+(validSpacing('Hello world'), true);
+
+(validSpacing(' Hello world'), false);
+
+(validSpacing('Hello  world '), false);
+
+(validSpacing('Hello'), true);
+
+(validSpacing('Helloworld'), true);                               
+                               
  ```
  
    ### **Fake Binary**<br>
@@ -246,7 +255,9 @@ function fakeBin(x) {
 
 ```javascript
 (fakeBin('45385593107843568'), '01011110001100111');
+
 (fakeBin('509321967506747'), '101000111101101'); 
+
 (fakeBin('366058562030849490134388085'), '011011110000101010000011011');
  ```
 <p align="right">(<a href="#top">back to top</a>)</p>
