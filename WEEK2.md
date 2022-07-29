@@ -261,3 +261,61 @@ function fakeBin(x) {
 (fakeBin('366058562030849490134388085'), '011011110000101010000011011');
  ```
 <p align="right">(<a href="#top">back to top</a>)</p>
+ 
+ 
+ 
+## **DAY 6, THURSDAY 28/7/2022**
+
+
+### ** Remove All Exclamation Marks From The End Of Sentence **<br>
+
+#### Solution:
+```javascript
+
+```
+
+#### Result:
+
+```javascript
+ 
+ ```
+ 
+ ### ** Vowel Remover **<br>
+
+#### Solution:
+```javascript
+
+```
+
+#### Result:
+
+```javascript
+ 
+ ```
+ 
+ ### ** Rock Paper Scissors! **<br>
+
+#### Solution:
+```javascript
+
+```
+
+#### Result:
+
+```javascript
+ 
+ ```
+ 
+ ### ** Persistent Bugger  **<br>
+
+#### Solution:
+```javascript
+
+```
+
+#### Result:
+
+```javascript
+ 
+ ```
+ <p align="right">(<a href="#top">back to top</a>)</p>
