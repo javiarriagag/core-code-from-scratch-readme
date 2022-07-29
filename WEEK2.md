@@ -329,18 +329,17 @@ function shortcut (string) {
 #### Result:
 
 ```javascript
- 'player 1 won!'
+ 'Player 1 won!'
     ('rock', 'scissors')
     ('scissors', 'paper')
     ('paper', 'rock')
 
-'player 2 won!'
+'Player 2 won!'
     ('scissors', 'rock')
     ('paper', 'scissors')
     ('rock', 'paper')
 
-
- 'draw' 
+ 'Draw!' 
     ('rock', 'rock'), 'Draw!'
     ('scissors', 'scissors'), 'Draw!'
     ('paper', 'paper'), 'Draw!'
