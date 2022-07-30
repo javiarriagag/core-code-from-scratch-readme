@@ -350,6 +350,20 @@ function shortcut (string) {
 
 #### Solution:
 ```javascript
+ function persistence(num) {
+  let numsArr = Array.from(String(num), Number);
+  let entradasAlWhile = 0;
+  
+  while (numsArr.length>1){
+    entradasAlWhile++;
+  let mult=1;
+  for (i=0;i<numsArr.length;i++){
+    mult = mult *numsArr[i];
+  }
+    numsArr = Array.from(String(mult), Number);
+    } 
+  return  entradasAlWhile;
+}
 
 ```
 
