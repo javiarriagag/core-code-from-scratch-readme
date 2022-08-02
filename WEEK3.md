@@ -13,7 +13,7 @@
 ## **DAY 7, MONDAY 1/8/2022**
 
 
-### **Multiply**<br>
+### **Who likes it**<br>
  
  #### Solution:
 ```javascript
@@ -24,3 +24,31 @@
  ```javascript
 
 ```
+ 
+
+### **Bit counting **<br>
+ 
+ #### Solution:
+```javascript
+
+```
+
+#### Result:
+ ```javascript
+
+```
+ 
+
+### **Your order, Please**<br>
+ 
+ #### Solution:
+```javascript
+
+```
+
+#### Result:
+ ```javascript
+
+``` 
+ 
+<p align="right">(<a href="#top">back to top</a>)</p>
