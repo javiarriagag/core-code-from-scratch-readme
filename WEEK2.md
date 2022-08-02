@@ -271,13 +271,30 @@ function fakeBin(x) {
 
 #### Solution:
 ```javascript
+ function remove (string) {
+ let last= string.length-1;  
+  let result ='';  
+  
+for (let i = last ; i> 0; i--) {
+  if (string[i] !='!') {
+    result = string.substring(0, i+1);
+    break;
+  }
+}
+  return result;
+}
 
 ```
 
 #### Result:
 
 ```javascript
- 
+("Hi!", "Hi")
+("Hi!!!", "Hi")
+("!Hi", "!Hi")
+("!Hi!", "!Hi")
+("Hi! Hi!", "Hi! Hi")
+("Hi", "Hi")
  ```
  
  ### **Vowel Remover**<br>
