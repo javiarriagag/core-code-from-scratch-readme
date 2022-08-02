@@ -14,5 +14,13 @@
 
 
 ### **Multiply**<br>
-  
-  
+ 
+ #### Solution:
+```javascript
+
+```
+
+#### Result:
+ ```javascript
+
+```
