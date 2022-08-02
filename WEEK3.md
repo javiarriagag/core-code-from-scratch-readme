@@ -26,7 +26,7 @@
 ```
  
 
-### **Bit counting **<br>
+### **Bit counting**<br>
  
  #### Solution:
 ```javascript
