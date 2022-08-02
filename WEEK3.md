@@ -86,11 +86,12 @@ function likes(names) {
  ```javascript
 
 ``` 
+ <p align="right">(<a href="#top">back to top</a>)</p>
  
  ## **DAY 8, TUESDAY 2/8/2022**
 
 
-### **Who likes it**<br>
+### **Simple Pig Latin**<br>
  
  #### Solution:
 ```javascript
@@ -98,7 +99,26 @@ function likes(names) {
  
  #### Result:
  ```javascript
-
+``` 
+ 
+### **Counting Duplicates**<br>
+ 
+ #### Solution:
+```javascript
+ ```
+ 
+ #### Result:
+ ```javascript
+``` 
+ 
+ ### **Decode the Morse Code**<br>
+ 
+ #### Solution:
+```javascript
+ ```
+ 
+ #### Result:
+ ```javascript
 ``` 
  
 <p align="right">(<a href="#top">back to top</a>)</p>
