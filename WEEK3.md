@@ -10,7 +10,7 @@
 
 </div>
 
-## **DAY 4, MONDAY 1/8/2022**
+## **DAY 7, MONDAY 1/8/2022**
 
 
 ### **Multiply**<br>
