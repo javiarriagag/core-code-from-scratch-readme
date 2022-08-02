@@ -87,4 +87,18 @@ function likes(names) {
 
 ``` 
  
+ ## **DAY 8, TUESDAY 2/8/2022**
+
+
+### **Who likes it**<br>
+ 
+ #### Solution:
+```javascript
+ ```
+ 
+ #### Result:
+ ```javascript
+
+``` 
+ 
 <p align="right">(<a href="#top">back to top</a>)</p>
