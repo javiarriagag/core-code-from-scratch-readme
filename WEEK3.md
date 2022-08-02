@@ -52,11 +52,25 @@ function likes(names) {
  
  #### Solution:
 ```javascript
+ let countBits = function(n) {
+  let binary= n.toString(2);
+  let numsArr = Array.from(String(binary), Number);
+  let sum = 0;
+  for (let i = 0; i <numsArr.length; i++) {
+    sum += numsArr[i];
+  }
+  return sum;
+}
 
 ```
 
 #### Result:
  ```javascript
+(countBits(0), 0);
+(countBits(4), 1);
+(countBits(7), 3);
+(countBits(9), 2);
+(countBits(10), 2);                                    
 
 ```
  
