@@ -138,7 +138,30 @@ pigIt('This is my string'),'hisTay siay ymay tringsay')
   ## **DAY 9, WEDNESDAY 3/8/2022**
 
 
-### **Simple Pig Latin**<br>
+### **Valid Parentheses**<br>
+ 
+ #### Solution:
+```javascript
+ 
+ ```
+  #### Result:
+ ```javascript
+ 
+ 
+``` 
+ 
+### **Convert string to camel case**<br>
+ 
+ #### Solution:
+```javascript
+ 
+ ```
+  #### Result:
+ ```javascript
+ 
+ 
+``` 
+### **Unique in order**<br>
  
  #### Solution:
 ```javascript
