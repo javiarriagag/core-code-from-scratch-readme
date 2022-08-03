@@ -133,3 +133,21 @@ pigIt('This is my string'),'hisTay siay ymay tringsay')
 ``` 
  
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+ 
+  ## **DAY 9, WEDNESDAY 3/8/2022**
+
+
+### **Simple Pig Latin**<br>
+ 
+ #### Solution:
+```javascript
+ 
+ ```
+  #### Result:
+ ```javascript
+ 
+ 
+``` 
+ 
+<p align="right">(<a href="#top">back to top</a>)</p>
