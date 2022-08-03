@@ -95,10 +95,21 @@ function likes(names) {
  
  #### Solution:
 ```javascript
+ function pigIt (str) {
+  let empt =[','];
+  str = str.split (' ');
+  for (let i=0; i<str.length;i++){
+    if (empt.indexOf(str[i]) >= 0) continue;
+    str[i] = str[i].slice(1) + str[i].slice(0, 1) + 'ay';
+      } 
+  return str.join(' ');
+}
  ```
  
  #### Result:
  ```javascript
+pigIt('Pig latin is cool'),'igPay atinlay siay oolcay')
+pigIt('This is my string'),'hisTay siay ymay tringsay')
 ``` 
  
 ### **Counting Duplicates**<br>
