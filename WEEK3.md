@@ -96,7 +96,7 @@ function likes(names) {
  #### Solution:
 ```javascript
  function pigIt (str) {
-  let empt =[','];
+ let empt =['!', '¡', '?', '¿', '.', ',', ':', ';'];;
   str = str.split (' ');
   for (let i=0; i<str.length;i++){
     if (empt.indexOf(str[i]) >= 0) continue;
