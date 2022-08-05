@@ -174,3 +174,33 @@ pigIt('This is my string'),'hisTay siay ymay tringsay')
 ``` 
  
 <p align="right">(<a href="#top">back to top</a>)</p>
+ 
+ 
+   ## **DAY 10, THURSDAY 4/8/2022**
+
+
+### **Fold an array**<br>
+ 
+ #### Solution:
+```javascript
+ 
+ ```
+  #### Result:
+ ```javascript
+ 
+ 
+``` 
+ 
+### **Encrypt this**<br>
+ 
+ #### Solution:
+```javascript
+ 
+ ```
+  #### Result:
+ ```javascript
+ 
+ 
+``` 
+ 
+<p align="right">(<a href="#top">back to top</a>)</p>
