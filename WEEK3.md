@@ -79,7 +79,14 @@ function likes(names) {
  
  #### Solution:
 ```javascript
-
+function order (words){
+const sortwords = words.split(' ').sort((a, b) =>{
+  let aN = Number(a.replace(/[A-Za-z]/g, ''));
+  let bN = Number(b.replace(/[A-Za-z]/g, ''));
+return aN - bN;
+});
+return sortwords. join (' ');
+}
 ```
 
 #### Result:
