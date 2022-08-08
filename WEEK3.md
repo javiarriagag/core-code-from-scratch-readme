@@ -204,7 +204,7 @@ pigIt('This is my string'),'hisTay siay ymay tringsay')
 ``` 
  
 ### **Corecode Challenge 1**<br> 
- ```javascript 
+ ```html
 
 I’m Javi, I’m a inventive person, I center myself around integrity, honesty, ingenuity, passion and loyalty. 
 I like to learn how the world works. My background is on design. I’ve been on interiors, garment design, digital design, 
