@@ -207,8 +207,8 @@ pigIt('This is my string'),'hisTay siay ymay tringsay')
  ```javascript 
 
 I’m Javi, I’m a inventive person, I center myself around integrity, honesty, ingenuity, passion and loyalty. 
-I like to learn how the world works. My background is on design. I’ve been on interiors, garment design, digital design, etc.
-Currently I’m on the managing side of a wholesale company. I would love to find a place where I can merge my passion for design, 
-with my developer skills, for example on a garment company that merges tech with products as Nike.
+I like to learn how the world works. My background is on design. I’ve been on interiors, garment design, digital design, 
+etc. Currently I’m on the managing side of a wholesale company. I would love to find a place where I can merge my passion 
+for design, with my developer skills, for example on a garment company that merges tech with products as Nike.
 ``` 
 <p align="right">(<a href="#top">back to top</a>)</p>
