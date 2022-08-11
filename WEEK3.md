@@ -126,10 +126,28 @@ pigIt('This is my string'),'hisTay siay ymay tringsay')
  
  #### Solution:
 ```javascript
+ function duplicateCount(text){
+  let duplicates= 0;
+  text = text.toLowerCase(); 
+  for(let i=0; i<text.length; i++){
+    if(text.indexOf(text[i]) !== text.lastIndexOf(text[i])){
+      duplicates++;
+      text = text.replace(new RegExp(`${text[i]}`,'g'), '');
+      i= i-1;
+    }
+  }
+  return duplicates;
+}
  ```
  
  #### Result:
  ```javascript
+(duplicateCount(""), 0);
+(duplicateCount("abcde"), 0);
+(duplicateCount("aabbcde"), 2);
+(duplicateCount("aabBcde"), 2,"should ignore case");
+(duplicateCount("Indivisibility"), 1)
+(duplicateCount("Indivisibilities"), 2, "characters may not be adjacent")                              
 ``` 
  
  ### **Decode the Morse Code**<br>
