@@ -9,7 +9,7 @@
 
 ### **TypeScript Unions :**<br>
 
-```Typescript
+```typescript
 interface User {
     name: string;
     age: number;
