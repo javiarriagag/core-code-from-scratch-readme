@@ -7,6 +7,8 @@
 ## **DAY 1, MONDAY 22/8/2022**
 
 ### **TypeScript Object Type :**<br>
+
+```javascript
 export interface User {
     name: string;
     age : number;
@@ -33,7 +35,7 @@ export function logPerson(user: User) {
 
 console.log('Users:');
 users.forEach(logPerson);
-
+```
 
 ### **TypeScript Unions :**<br>
 
