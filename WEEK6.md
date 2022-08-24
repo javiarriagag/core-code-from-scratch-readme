@@ -9,6 +9,13 @@
 
 ### **Interpreted And Compiled Programming Languages :**<br>
 
+```javascript
+
+```
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
 ## **DAY 1, TUESDAY 23/8/2022**
 
 
